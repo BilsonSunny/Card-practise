@@ -10,6 +10,8 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant May 2020
  * @author Bilson june 23, 2023 
+ 
+ * i made a change
  */
 public class Card {
 

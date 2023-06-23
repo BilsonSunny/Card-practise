@@ -8,6 +8,8 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
  * @author bilson june 23, 2023
+ * 
+ * i made a change
  */
 public class CardTrick {
     
