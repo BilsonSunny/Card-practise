@@ -12,6 +12,7 @@ package exercise1;
  * @author Bilson june 23, 2023 
  
  * i made a change
+ june 23
  */
 public class Card {
 
